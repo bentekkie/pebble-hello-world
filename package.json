@@ -1,0 +1,21 @@
+{
+    "author": "bentekkie@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "hello-world",
+    "pebble": {
+        "displayName": "Hello World",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "51923b39-a702-4fa1-ab5e-35313a4c5204",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
